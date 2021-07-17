@@ -662,7 +662,7 @@ banner
 }
 
 #top .left-content {
-  background-image: url(../images/top-left-bg.jpg);
+  background-image: url(../images/bgimg.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -693,6 +693,9 @@ banner
   color: #fff;
   letter-spacing: 3px;
   margin-top: 5px;
+}
+#top .left-content p {
+  color: #fff;
 }
 
 #top .left-content .main-white-button  {
