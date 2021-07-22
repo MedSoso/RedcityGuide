@@ -687,6 +687,7 @@ banner
 }
 
 #top .left-content h6 {
+  text-align:left;
   font-size: 15px;
   text-transform: uppercase;
   font-weight: 600;
@@ -1074,6 +1075,10 @@ chefs
 }
 #chefs .texto {
   text-align: left;
+}
+#chefs .sidde-note {
+  text-align: left;
+  color:#fb5849;
 }
 
 #chefs .section-heading {
