@@ -658,6 +658,8 @@ banner
 
 #top .col-lg-4,
 #top .col-lg-8 {
+  width: 100%;
+  height: auto;
   padding: 0px;
 }
 
@@ -753,7 +755,7 @@ banner
 
 /* ==== Slider Style === */
 .Modern-Slider .item .img-fill{
-  height:100%;
+  height:auto;
   max-height: 700px;
   background:#000;
 }
@@ -1079,6 +1081,12 @@ chefs
 #chefs .sidde-note {
   text-align: left;
   color:#fb5849;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 40px;
+}
+#chefs h2 {
+  text-align: left;
 }
 
 #chefs .section-heading {
