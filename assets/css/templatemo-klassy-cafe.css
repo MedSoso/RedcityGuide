@@ -1081,9 +1081,9 @@ chefs
 #chefs .sidde-note {
   text-align: left;
   color:#fb5849;
-  font-size: 30px;
+  /* font-size: 30px;
   font-weight: 700;
-  line-height: 40px;
+  line-height: 40px; */
 }
 #chefs h2 {
   text-align: left;
