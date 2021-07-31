@@ -1078,15 +1078,18 @@ chefs
 #chefs .texto {
   text-align: left;
 }
-#chefs .sidde-note {
-  text-align: left;
+#chefs .sidde-notee {
+  text-align: center;
   color:#fb5849;
-  /* font-size: 30px;
-  font-weight: 700;
-  line-height: 40px; */
+}
+#chefs .sidde-note {
+  text-align: center;
+  color:#fb5849;
+
 }
 #chefs h2 {
-  text-align: left;
+  text-align: center;
+    padding-right: 45px;
 }
 
 #chefs .section-heading {
