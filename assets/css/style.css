@@ -1819,15 +1819,15 @@ responsive
   text-align: center;
 }
 
-ul {
+ol {
   list-style: none;
   padding: 0 0 0 15px;
 }
-ul li:before {
+ol li:before {
   content: "•";
   color: #000000;
   position: absolute;
-  left: -15px;
+  left: -12px;
 }
 li {
   position: relative;
