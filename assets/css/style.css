@@ -1818,6 +1818,11 @@ responsive
 .h6Cl {
   text-align: center;
 }
+@media (max-width: 750px) {
+  .youtubeVideo {
+    text-align: center;
+  }
+}
 
 ol {
   list-style: none;
