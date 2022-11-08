@@ -1354,7 +1354,7 @@ reservation
 }
 
 #reservation {
-  margin-top: 120px;
+  margin-top: 20px;
   padding: 120px 0px;
   background-image: url(../images/reservation-bg.webp);
   background-position: center center;
@@ -1405,6 +1405,10 @@ reservation
 #reservation .phone span a:hover,
 #reservation .message span a:hover {
   color: #fb5849;
+}
+#Feedbacks {
+  margin-top: 75px;
+  margin-bottom: 75px;
 }
 
 #contact {
