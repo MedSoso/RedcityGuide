@@ -1410,6 +1410,13 @@ reservation
   margin-top: 75px;
   margin-bottom: 75px;
 }
+#Feedbacks h4 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 30px;
+  color: #2a2a2a;
+  margin-bottom: 20px;
+}
 
 #contact {
   margin-left: 30px;
