@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://https://das-andere-marrakesch.com/sitemap.xml
+
+# Canonicalization
+Canonical: https://das-andere-marrakesch.com//
+Canonical: https://das-andere-marrakesch.com//index.html
